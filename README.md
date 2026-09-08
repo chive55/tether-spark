@@ -1,12 +1,12 @@
 # Tether Spark
 
-Tap to fire a tether at the nearest spark. Pull it in for points. Miss the range and the line snaps.
+Sparks fly at the core. Tap when they enter the ring. Too early or a hit costs a life.
 
 ## How to play
 
-- Tap / click / Space to fire a tether from the core toward the nearest spark
-- Sparks inside the cyan range ring are pulled in for a point
-- Miss the range three times and the run ends — beat your best
+- Sparks spawn outside and fly toward the core
+- Tap / click / Space when a spark is inside the cyan ring to pull it
+- An early tap or a spark that hits the core costs a life. Three lives.
 
 ## Play
 
@@ -20,4 +20,4 @@ Sound unlocks on Play. Mute is in the HUD. Best score lives in your browser (`te
 
 ## itch.io
 
-Upload `index.html` as an HTML project (play in browser, fullscreen + mobile friendly, click to play on). Cover and screenshots are in the local `artifacts/itch-covers/tether-spark/` folder after the ship run.
+Upload `index.html` as an HTML project (play in browser, fullscreen + mobile friendly, click to play on). Keep the page as a draft until you publish it.
